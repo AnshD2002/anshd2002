@@ -4,8 +4,8 @@
 ### About Me:    
 
 
-##Hi,I'm Ansh Dabral,
-###A committed and goal-oriented computer science student looking to pursue a career in the Data Science Domain.Possess excellent knowledge in JAVA, PYTHON, MYSQL.Ability to learn things quickly and capable of working in a fast-paced and team-driven environment.Always ready to learn new things and update my knowledge.
+## Hi,I'm Ansh Dabral,
+### A committed and goal-oriented computer science student looking to pursue a career in the Data Science Domain.Possess excellent knowledge in JAVA, PYTHON, MYSQL.Ability to learn things quickly and capable of working in a fast-paced and team-driven environment.Always ready to learn new things and update my knowledge.
        
  
 
