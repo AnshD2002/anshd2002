@@ -23,11 +23,12 @@
         </a>
     </p>
 
-   <h3 align="center">Algorithms: <a href="https://www.geeksforgeeks.org/user/anshd8218555/">GFG</a></h3>
-
-   <h3 align="center">Languages and Tools</h3>
-    <h4 align="center">Languages:</h4>
-    <table>
+   <h3 align="center">Algorithms: </h3>
+   <p align="center">
+   <a href="https://www.geeksforgeeks.org/user/anshd8218555/"><img src="https://repository-images.githubusercontent.com/389729275/371ba38b-8a03-4bff-916c-c3fa5396ceda" alt="GitHub" height="60" width="80" /></a>
+</p>
+    <h3 align="center">Languages:</h3>
+    <table align="center">
         <tr>
             <td>Python3</td>
             <td>R</td>
@@ -59,10 +60,10 @@
             <td><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/></td>
             <td><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="55" height="55"/></td>
         </tr>
-    </table>
+    </table align="center">
 
    <h4 align="center">My tools for Data Manipulation & Visualisation:</h4>
-    <table>
+    <table align="center">
         <tr>
             <td>Conda</td>
             <td>Jupyter</td>
@@ -84,7 +85,7 @@
     </table>
 
    <h4 align="center">OS:</h4>
-    <table>
+    <table align="center">
         <tr>
             <td>Windows</td>
             <td>Ubuntu</td>
