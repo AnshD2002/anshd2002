@@ -1,3 +1,4 @@
+
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=anshd2002&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="GitHub Profile Trophy">
@@ -9,8 +10,8 @@
     <h3>Hi, I'm Ansh Dabral,</h3>
     <p>A committed and goal-oriented computer science student looking to pursue a career in the Data Science Domain. Possess excellent knowledge in JAVA, PYTHON, MYSQL. Ability to learn things quickly and capable of working in a fast-paced and team-driven environment. Always ready to learn new things and update my knowledge.</p>
 
-    <h3>Connect with me:</h3>
-    <p>
+ <h3 align="center">Connect with me:</h3>
+    <p align="center">
         <a href="https://www.linkedin.com/in/ansh-dabral-8847b61b1/" target="blank">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
         </a>
@@ -22,11 +23,10 @@
         </a>
     </p>
 
-    <h3>Algorithms: <a href="https://www.geeksforgeeks.org/user/anshd8218555/">GFG</a></h3>
+   <h3 align="center">Algorithms: <a href="https://www.geeksforgeeks.org/user/anshd8218555/">GFG</a></h3>
 
-    <h3>Languages and Tools</h3>
-
-    <h4>Languages:</h4>
+   <h3 align="center">Languages and Tools</h3>
+    <h4 align="center">Languages:</h4>
     <table>
         <tr>
             <td>Python3</td>
@@ -39,8 +39,7 @@
             <td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/></td>
         </tr>
     </table>
-
-    <h4>Best frameworks and main libraries for Python3:</h4>
+    <h4 align="center">Best frameworks and main libraries for Python3:</h4>
     <table>
         <tr>
             <td>Pytorch</td>
@@ -62,7 +61,7 @@
         </tr>
     </table>
 
-    <h4>My tools for Data Manipulation & Visualisation:</h4>
+   <h4 align="center">My tools for Data Manipulation & Visualisation:</h4>
     <table>
         <tr>
             <td>Conda</td>
@@ -84,7 +83,7 @@
         </tr>
     </table>
 
-    <h4>OS:</h4>
+   <h4 align="center">OS:</h4>
     <table>
         <tr>
             <td>Windows</td>
