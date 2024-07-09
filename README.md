@@ -7,7 +7,12 @@
 ## Hi,I'm Ansh Dabral,
 ### A committed and goal-oriented computer science student looking to pursue a career in the Data Science Domain.Possess excellent knowledge in JAVA, PYTHON, MYSQL.Ability to learn things quickly and capable of working in a fast-paced and team-driven environment.Always ready to learn new things and update my knowledge.
        
- 
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/ansh-dabral-8847b61b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskritiaga" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/anshdabral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anshdabral" height="30" width="40" /></a>
+<a href="https://github.com/AnshD2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="anshdabral" height="30" width="40" /></a>
 
 ### Algorithms: [GFG](https://www.geeksforgeeks.org/user/anshd8218555/)
 
